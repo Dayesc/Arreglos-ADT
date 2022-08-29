@@ -1,0 +1,12 @@
+ArregloADT lista=new ArregloADT(10);{
+ {
+system.out.print(lista.gettamanio);
+lista.setElemento(3,Pelota);
+lista.setElemento(4,Pelota,rojo);
+ }
+  {
+Pelota x=lista.setElemento(4);
+limpiar(0);
+toString(Pelota);
+ }
+}
