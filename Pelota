@@ -1,0 +1,13 @@
+public class Pelota
+{
+ String color;
+ int tamanio;
+public void setColor(String c)
+{
+ this.color=c;
+ }
+ public void setTamanio(int t)
+ {
+  this.tamanio=t;
+  }
+  }
